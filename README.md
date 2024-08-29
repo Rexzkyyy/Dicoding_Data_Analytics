@@ -1,5 +1,5 @@
 # 📊 E-commerce Dashboard
-## Ikhtisar
+## Deskripsi
 Dashboard interaktif ini menawarkan analisis mendalam tentang data e-commerce, memberikan wawasan berharga melalui visualisasi dan metrik. Dibangun dengan Streamlit dan Python, dashboard ini memungkinkan pengguna untuk mengeksplorasi poin data utama dengan cara yang intuitif dan menarik.
 # Setup Lingkungan
 
