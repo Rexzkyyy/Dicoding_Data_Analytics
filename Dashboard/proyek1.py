@@ -40,7 +40,7 @@ with st.sidebar:
     st.title("Data E-Commerce")
 
     # Display an image logo
-    st.image("gambar1.jpg", use_column_width=True)
+    st.image("Dashboard/gambar1.jpg", use_column_width=True)
 
     # Date Range selection
     start_date, end_date = st.date_input(
