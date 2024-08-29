@@ -13,7 +13,7 @@ st.set_page_config(page_title="E-commerce Dashboard", layout="wide")
 sns.set(style='dark')
 
 # Import data
-all_df = pd.read_csv("all_df.csv")
+all_df = pd.read_csv("Dashboard/all_df.csv")
 
 # Convert relevant columns to datetime
 datetime_cols = [
